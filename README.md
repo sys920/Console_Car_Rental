@@ -14,6 +14,8 @@
 
 
 # Code
+- Dist directory :  setup.exe  ( You can install and run this rental system) 
+
 - Car.cs :  car class 
 - order.cs :  place car rental order class
 - Revies.cs : user review class 
